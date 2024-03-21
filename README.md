@@ -1,6 +1,6 @@
 # Radiomics4
 
-In this repositury we have all the corresponding files needed to use Pyradiomics and execute the module I built (main.py).
+In this repository we have all the corresponding files needed to use Pyradiomics and execute the module I built (main.py).
 
 Stages for execution:
 
