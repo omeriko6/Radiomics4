@@ -1,11 +1,13 @@
 In this repository we have all the corresponding data and needed to use Pyradiomics and execute the module I built (main.py).
 
+
+How to run the model:
+Open a project in python, add the main function to your own project.
 In order to run the program you need to download the following libraries:
 NumPy
 Panda
 sklearn
 pickle
-
 The import commands are already in the code.
 
 
